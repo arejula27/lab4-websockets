@@ -24,7 +24,7 @@ You must remove `@Disabled` and place up to 6 lines of code to fulfil the task.
 
 Solutions must meet primary goals too.
 
-Proposed:
+Proposed: 
 
 - Support STOMP in the server side and create a small client that uses it.
 - Support SockJS in the server side and show that xhr-polling can be used as transport instead of WebSocket when needed ([additional info](https://docs.spring.io/spring-framework/docs/current/reference/html/web.html#websocket-fallback-sockjs-client)).
